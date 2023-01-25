@@ -1,1 +1,1 @@
-# MFSD: Masked Face Segmentation Dataset for face-related tasks.
+# MFSD: Masked Face Segmentation Dataset for face-related tasks
