@@ -11,3 +11,44 @@ Mask region segmentation is a preliminary stage to tackle the occlusion issue co
 Details on the dataset can be found at [ExpertSystem2024](https://doi.org/10.1111/exsy.13625).<br>
 If you have questions, or any suggestions to help us improve the dataset, please contact sadjadRezvani@gmail.com.
 
+### Directory Structure Tree
+
+```
+          ├─ /1
+          │　├─ face_crop
+          │　└─ face_crop_segmentation
+MSFD------│　└─ img
+          |  └─ dataset.csv
+          ├─ /2
+          │　├─ img
+          
+```
+
+### Download 
+Dataset can be downloaded at [GoogleDrive](https://drive.google.com/file/d/1KycQj4dik91RuBGvbhDJou7YDQEKAH2Z/view).
+
+MSFD belongs to [CVLab SHUT](https://github.com/CVLab-SHUT), Shahrood University of Technology. MSFD is distributed under the [MIT](https://github.com/sadjadrz/MFSD/blob/main/LICENSE) License
+
+
+
+
+
+### Citations
+
+Please consider citing our work:
+```
+@article{rezvaniabanet,
+  title={ABANet: Attention boundary-aware network for image segmentation},
+  author={Rezvani, Sadjad and Fateh, Mansoor and Khosravi, Hossein},
+  journal={Expert Systems},
+  pages={e13625},
+  publisher={Wiley Online Library}
+}
+```
+
+### Changelog 
+
+* 
+
+
+
