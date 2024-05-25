@@ -45,7 +45,7 @@ Please consider citing our work:
 ```
 
 ### Acknowledgements
-
+Thanks to [Yasin] (https://github.com/YasinRezvani) for data collection and labelling
 ### Changelog 
 * 
 
