@@ -45,7 +45,8 @@ Please consider citing our work:
 ```
 
 ### Acknowledgements
-Thanks to [Yasin](https://github.com/YasinRezvani) for data collection and labelling
+A special thanks to [Yasin Rezvani](https://github.com/YasinRezvani) for his invaluable assistance in data collection and labeling. Yasin played a crucial role in gathering data from Google and Instagram and preparing it for deep learning model training.
+
 ### Changelog 
 * 
 
